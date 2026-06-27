@@ -1,0 +1,1 @@
+{"name": "water-tracker", "version": "1.0.0", "main": "App.js", "scripts": {"start": "expo start"}, "dependencies": {"expo": "~50.0.0"}}
